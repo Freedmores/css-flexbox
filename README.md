@@ -18,7 +18,7 @@ I did a comprehensive crash course in CSS Flexbox.
 
 ## Visuals
 
-[Include screenshots or other visuals here.]
+![Screenshot of Flexbox Crash Course](screenshot.png)
 
 ## Acknowledgment
 
